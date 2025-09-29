@@ -8,4 +8,4 @@ We have recently developed a salt marsh soil biogeochemistry model linking the f
 
 
 
-<img width="284" height="92" alt="image" src="https://github.com/user-attachments/assets/effe3d74-c038-4674-a846-9deda5cee62f" />
+<img width="684" height="292" alt="image" src="https://github.com/user-attachments/assets/effe3d74-c038-4674-a846-9deda5cee62f" />
